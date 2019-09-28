@@ -7,5 +7,6 @@ for i in range(games-1):
 	for j in range(1,games):
 		if games[i][0] == games[j][0]:
 			# remove[]
+			print('aaa')
 
 # print(int(round(answer,0))) 
